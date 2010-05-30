@@ -11,6 +11,7 @@ public class Main {
 		int x=0;
 		int y=3;
 		System.out.println(x+y);
+		String tekst="Ala ma kota";
 	}
 
 }
