@@ -11,6 +11,7 @@ public class Main {
 		int x=0;
 		int y=3;
 		System.out.println(x+y);
+		double[] przecinki={2.3d,2.3442d};
 	}
 
 }
